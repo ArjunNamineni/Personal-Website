@@ -14,11 +14,11 @@ body, html {
 }
 
 .milkyway-background {
-  background-image: url("FairylandCanyon_1280.jpg");
+  background-image: url("images/FairylandCanyon_1280.jpg");
 }
 
 .mountain-background {
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(61,16,255,0.3)),url("LakeMcDonald_1280.jpg");
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(61,16,255,0.3)),url("images/LakeMcDonald_1280.jpg");
 }
 
 .special-blue {
