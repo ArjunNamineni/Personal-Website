@@ -125,6 +125,13 @@ body, html {
   background-color:#B2B2B2;
 }
 
+.OSX-window {
+  margin: auto;
+  display: table;
+  border-radius: 6px;
+  padding: 50px 80px;
+}
+
 @media screen and (max-width: 600px) {
   .about-me-section {
     padding: 50px 40px;
@@ -156,6 +163,10 @@ body, html {
 
   .contact-me-section {
     padding: 50px 20px;
+  }
+
+  .about-me-code {
+    font-size: 12px;
   }
 }
 
@@ -192,13 +203,6 @@ body, html {
 
 .emphasis {
   font-weight: 700;
-}
-
-.OSX-window {
-  margin: auto;
-  display: table;
-  border-radius: 6px;
-  padding: 50px 80px;
 }
 
 .OSX-titlebar {
